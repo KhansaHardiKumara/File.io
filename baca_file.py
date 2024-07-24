@@ -1,0 +1,5 @@
+file_pantun = open("pantun.txt", "r")
+pantun = (file_pantun.readlines())
+print(pantun[1])
+print (pantun[2])
+file_pantun.close()
