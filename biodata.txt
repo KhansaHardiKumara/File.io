@@ -1,0 +1,9 @@
+
+Nama: khansa hardi
+Umur: 17
+Alamat: sawojajar 2
+---
+Nama: yono
+Umur: 21
+Alamat: sulsel
+---
