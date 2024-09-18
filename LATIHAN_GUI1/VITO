@@ -4,7 +4,7 @@ import tkinter as tk
 button = tk.Tk()
 
 # Mengatur judul jendela
-button.title("Khansa Hardi Kumarah - Button")
+button.title("Vito Al Fawwaz Putra Riandy - Button")
 
 # Membuat label
 label = tk.Label(button, text="Masukkan Nama:")
