@@ -60,7 +60,7 @@ def on_leave(e):
 # Membuat jendela utama
 root = tk.Tk()
 root.title("Aplikasi Penghitung Luas") #HALO
-root.configure(bg="#f5f5f5")  # Mengatur warna background
+root.configure(bg="#f5f5f5")  # Mengatur warna ahhh
 
 # Label judul aplikasi
 title_label = tk.Label(root, text="Penghitung Luas Bangun Datar & Ruang", font=("Helvetica", 16, "bold"), bg="#f5f5f5", fg="#333")
