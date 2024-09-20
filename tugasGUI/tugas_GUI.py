@@ -59,7 +59,7 @@ def on_leave(e):
 
 # Membuat jendela utama
 root = tk.Tk()
-root.title("Aplikasi Penghitung Luas")
+root.title("Aplikasi Penghitung Luas") #HALO
 root.configure(bg="#f5f5f5")  # Mengatur warna background
 
 # Label judul aplikasi
